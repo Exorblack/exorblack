@@ -23,6 +23,9 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 🔭 I’m currently studying Life<br>🌱 I’m currently learning Rust<br>🤝 I’m currently looking for a job<br>💬 Ask me about nodejs | Bun | expressjs | Databases | nextjs<br>⚡ Fun fact Nobody cares
 
@@ -37,10 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=exorblack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><be>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=exorblack&icon=0&color=0)](https://visitcount.itsvg.in)
