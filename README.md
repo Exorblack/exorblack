@@ -2,7 +2,7 @@
 🔭 I’m currently studying Life<br>🌱 I’m currently learning Rust<br>🤝 I’m currently looking for a job<br>💬 Ask me about nodejs | Bun | expressjs | Databases | nextjs<br>⚡ Fun fact Nobody cares
 
 
-## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+## Hello, Nice to Meet You !!
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
